@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 node_modules
 tmp
 
 lib-src
+=======
+launchConfigurations/
+.git/
+>>>>>>> e490bade6fec70ca3740df629c2e35700791d483

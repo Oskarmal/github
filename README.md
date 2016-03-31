@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bluemix-todo-apps - node overview
 
 TodoMVC using Backbone, CouchDB/MongoDB and a node back-end, running on Bluemix.
@@ -216,3 +217,6 @@ Deployment tracking can be disabled by removing `require("cf-deployment-tracker-
 [scrud_methods_url]: http://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 [apache_license_url]: http://www.apache.org/licenses/LICENSE-2.0.html
 [deploy_track_url]: https://github.com/cloudant-labs/deployment-tracker
+=======
+# github
+>>>>>>> e490bade6fec70ca3740df629c2e35700791d483
